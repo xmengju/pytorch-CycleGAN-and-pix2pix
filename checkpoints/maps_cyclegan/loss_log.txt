@@ -1,0 +1,5 @@
+================ Training Loss (Tue Mar 20 20:12:46 2018) ================
+(epoch: 1, iters: 100, time: 2.045, data: 0.239) D_A: 0.217 G_A: 0.360 Cyc_A: 1.573 D_B: 0.362 G_B: 0.366 Cyc_B: 2.721 idt_A: 1.357 idt_B: 0.809 
+================ Training Loss (Tue Mar 20 20:16:26 2018) ================
+(epoch: 1, iters: 100, time: 1.813, data: 0.126) D_A: 0.283 G_A: 0.367 Cyc_A: 1.466 D_B: 1.085 G_B: 0.791 Cyc_B: 1.024 idt_A: 0.555 idt_B: 0.741 
+================ Training Loss (Tue Mar 20 20:20:58 2018) ================
